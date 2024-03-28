@@ -5,7 +5,7 @@
 ### 🔭 Watch out this space 
 ### Something huge is coming 
 ### 📫 You can reach me via mail on anthonynwach@gmail.com
-## ⚡ Fun fact: I play sudoku to relax
+#### ⚡ Fun fact: I play sudoku to relax
 
 <!--
 **PASTONNI/PASTONNI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
