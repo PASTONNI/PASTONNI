@@ -2,9 +2,9 @@
 
 ## I am Anthony, an Applications/IT support analyst.
 ### I am currently learning Software Engineering with Python.
-### 🔭 Watch out this space 
-### Something huge is coming 
-### 📫 You can reach me via mail on anthonynwach@gmail.com
+#### 🔭 Watch out this space 
+#### Something huge is coming 
+#### 📫 You can reach me via mail on anthonynwach@gmail.com
 #### ⚡ Fun fact: I play sudoku to relax
 
 <!--
