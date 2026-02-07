@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## I am Anthony, an Applications/IT support analyst.
-### I am currently learning Software Engineering with Python.
-#### 🔭 Watch out this space 
-#### Something huge is coming 
-#### 📫 You can reach me via mail on anthonynwach@gmail.com
-#### ⚡ Fun fact: I play sudoku to relax
+I am Anthony, a Data Analyst transitioning into Data Engineering
+Currently leveling up my skills in Python and modern data engineering tools
+🔭 Watch this space
+Something exciting is on the way
+📫 You can reach me at: anthonynwach@gmail.com
+⚡ Fun fact: Sudoku is my go‑to way to unwind
 
 <!--
 **PASTONNI/PASTONNI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
